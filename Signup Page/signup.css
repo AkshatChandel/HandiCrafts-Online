@@ -1,0 +1,16 @@
+body{
+	background: url("SignUp.jpg");
+	background-size:cover;
+}
+
+.head{
+	font-size:35px;
+	font-family: 'Poppins';
+
+}
+
+.Form{
+	font-size:25px;
+	font-family: 'Poppins';
+
+}
